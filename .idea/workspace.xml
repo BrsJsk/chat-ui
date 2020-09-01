@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="372005da-2fae-412e-82d4-90732d43ba02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598987952869</updated>
-      <workItem from="1598987956544" duration="3226000" />
+      <workItem from="1598987956544" duration="3945000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1598990260379</created>
@@ -95,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598990983884</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Footer">
+      <created>1598991578242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598991578242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colors" />
+    <MESSAGE value="Footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="179" width="1081" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598988232149">
@@ -142,9 +149,9 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1899" height="269" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1598988321047" />
-    <state x="556" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598990263743">
+    <state x="556" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598991585987">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="556" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1598990263743" />
+    <state x="556" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1598991585987" />
   </component>
 </project>

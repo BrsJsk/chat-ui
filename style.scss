@@ -20,6 +20,13 @@ body {
         display: flex;
         flex-direction: column;
 
+        &:hover {
+          .sender_name {
+            transition: color 0.2s linear;
+            color: #2f2d2d;
+          }
+        }
+
         &.incoming {
           justify-content: flex-start;
           align-items: flex-start;
