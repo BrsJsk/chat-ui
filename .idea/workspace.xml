@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598987952869</updated>
-      <workItem from="1598987956544" duration="2646000" />
+      <workItem from="1598987956544" duration="3226000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1598990260379</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598990260379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Colors">
+      <created>1598990983884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598990983884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="179" width="1081" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598988232149">
