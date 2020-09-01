@@ -6,7 +6,7 @@ body {
     width: 360px;
     background: #e8e6e6;
     border: 1px solid #bfbfbf;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 
     #inner_chat_wrapper {
       height: 85%;
@@ -17,15 +17,36 @@ body {
 
       .message {
         padding: 7px;
+        display: flex;
+        flex-direction: column;
+
+        &.incoming {
+          justify-content: flex-start;
+          align-items: flex-start;
+
+          .sender_message {
+            background: #cccaca;
+          }
+        }
+
+        &.outgoing {
+          justify-content: flex-end;
+          align-items: flex-end;
+
+          .sender_message {
+            background: #96ccf5;
+          }
+        }
 
         .sender_name {
           font-size: 14px;
           color: #7b7b7b;
           font-weight: 300;
+          line-height: 0;
+          margin-bottom: 0;
         }
 
         .sender_message {
-          background: #cccaca;
           border-radius: 2%;
           padding: 17px;
           border-radius: 15px;
